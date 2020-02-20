@@ -9,3 +9,7 @@
 	exit;
 ?>
 Something is wrong with the XAMPP installation :-(
+hai how r u jude its pavi i am fine how is life going
+
+
+													
